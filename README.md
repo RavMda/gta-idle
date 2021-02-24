@@ -9,13 +9,13 @@ GTA-AFK is a simple and dumb tool that will help you stay on the GTA Online serv
 
 It simulates your mouse scroll when you're focused on GTA window.
 
-Be aware that it does not affect the game in any way and cannot be detected by anti-cheat.
+Be aware that it does not affect the game memory in any way and therefore cannot be detected by anti-cheat.
 
-**You can't use it if the window is unfocused**
+**It won't do anything if the window is unfocused**
 
 ## Usage
 
-Download any version you prefer [here](https://github.com/RavMda/gta-afk/releases) and just run it.
+Download any executable you prefer [here](https://github.com/RavMda/gta-afk/releases) and just run it.
 
 ![A Console](https://i.imgur.com/6YEG2k9.png)
 
