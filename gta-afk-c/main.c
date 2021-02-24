@@ -34,7 +34,7 @@ void do_activity(){
 }
 
 int main() {
-    printf("The program will work only when GTA V is in focus.\n");
+    printf("This program will work only when GTA V is in focus.\n");
     printf("To turn it off, simply close this window.\n");
 
     while (true) {
