@@ -2,3 +2,5 @@
 cmake-build-debug/
 cmake-build-release/
 *.exe
+gta-afk-rust/target/
+.vscode/
