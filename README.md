@@ -1,3 +1,6 @@
+![Version Badge](https://img.shields.io/badge/version-v1.0-brightgreen)
+![License Badge](https://img.shields.io/badge/license-GPL--3.0-orange)
+
 # GTA-AFK
 
 GTA-AFK is a simple and dumb tool that will help you stay on the GTA Online server without being kicked for inactivity.
@@ -15,6 +18,15 @@ Be aware that it does not affect the game in any way and cannot be detected by a
 Download any version you prefer [here](https://github.com/RavMda/gta-afk/releases) and just run it.
 
 ![A Console](https://i.imgur.com/6YEG2k9.png)
+
+## Build
+
+#### Go
+```
+git clone https://github.com/RavMda/gta-afk.git
+cd .\gta-afk\gta-afk-go\
+go build -ldflags "-s -w" -o ./gta-afk-go.exe
+```
 
 ## License
 [GPL-3.0 License](https://choosealicense.com/licenses/gpl-3.0/)
