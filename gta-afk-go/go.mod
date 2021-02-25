@@ -1,4 +1,4 @@
-module gta-afk
+module gta-idle
 
 go 1.15
 

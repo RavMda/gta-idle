@@ -1,9 +1,9 @@
 ![Version Badge](https://img.shields.io/badge/version-v1.0-brightgreen)
 ![License Badge](https://img.shields.io/badge/license-GPL--3.0-orange)
 
-# GTA-AFK
+# GTA-IDLE
 
-GTA-AFK is a simple and dumb tool that will help you stay on the GTA Online server without being kicked for inactivity.
+GTA-IDLE is a simple and dumb tool that will help you stay on the GTA Online server without being kicked for inactivity.
 
 ## How it works?
 
@@ -15,7 +15,7 @@ Be aware that it does not affect the game memory in any way and therefore cannot
 
 ## Usage
 
-Download any executable you prefer [here](https://github.com/RavMda/gta-afk/releases) and just run it.
+Download any executable you prefer [here](https://github.com/RavMda/gta-idle/releases) and just run it.
 
 ![A Console](https://i.imgur.com/6YEG2k9.png)
 
@@ -23,9 +23,9 @@ Download any executable you prefer [here](https://github.com/RavMda/gta-afk/rele
 
 #### Go
 ```
-git clone https://github.com/RavMda/gta-afk.git
-cd .\gta-afk\gta-afk-go\
-go build -ldflags "-s -w" -o ./gta-afk-go.exe
+git clone https://github.com/RavMda/gta-idle.git
+cd .\gta-idle\gta-idle-go\
+go build -ldflags "-s -w" -o ./gta-idle-go.exe
 ```
 
 ## License
