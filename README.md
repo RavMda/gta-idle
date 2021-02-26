@@ -21,11 +21,28 @@ Download any executable you prefer [here](https://github.com/RavMda/gta-idle/rel
 
 ## Build
 
+#### C/C++
+```
+git clone https://github.com/RavMda/gta-idle.git
+cd .\gta-idle\gta-idle-c\
+mkdir build
+cd .\build\
+cmake --help	Find a suitable generator, such as "Visual Studio 16 2019"
+Select either Win32 or x64 below for the -A flag (32bit or 64bit)
+cmake .. -A Win32/x64 -G <GENERATOR>
+```
 #### Go
 ```
 git clone https://github.com/RavMda/gta-idle.git
 cd .\gta-idle\gta-idle-go\
 go build -ldflags "-s -w" -o ./gta-idle-go.exe
+```
+#### Rust
+Make sure you have "Visual Studio C++ Build tools" installed
+```
+git clone https://github.com/RavMda/gta-idle.git
+cd .\gta-idle\gta-idle-rust\
+cargo build --release
 ```
 
 ## License
